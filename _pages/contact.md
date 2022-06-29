@@ -1,3 +1,8 @@
+---
+permalink: /contact/
+title: "Contact"
+---
+
 <form method="post" action="https://forms.un-static.com/forms/3eed83b097d0d2a6ca8a5a1b99f1765cfe3558ae">
   <div class="form-group row">
     <label for="inputName" class="col-sm-2 col-form-label">Name</label>
