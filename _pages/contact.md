@@ -3,32 +3,19 @@ permalink: /contact/
 title: "Contact"
 ---
 
-<form method="post" action="https://forms.un-static.com/forms/3eed83b097d0d2a6ca8a5a1b99f1765cfe3558ae">
-  <div class="form-group row">
-    <label for="inputName" class="col-sm-2 col-form-label">Name</label>
-    <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
-    <div class="input-group col-sm-10">
-      <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
-      <input type="email" class="form-control" id="inputEmail" placeholder="Email">
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="inputMessage" class="col-sm-2 col-form-label">Message</label>
-    <div class="col-sm-10">
-      <textarea name="inputMessage" cols="40" rows="8" class="form-control"></textarea>
-    </div>
-  </div>
-  <div class="form-group row">
-    <div class="col-sm-10">
-      <button type="submit" class="btn btn-primary">Send</button>
-    </div>
-  </div>
-  <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
-  </div>
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/meqnwdjb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
