@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Développeur en 2e année à Ynov Bordeaux"
   links:
-    - label: "Website"
+    - label: "Site"
       icon: "fas fa-fw fa-link"
       url: "https://kraizix.github.io"
     - label: "GitHub"
