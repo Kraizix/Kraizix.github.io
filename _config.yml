@@ -16,8 +16,7 @@
 title: Blog de stage
 email: kevin.granger@ynov.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog de compte rendu de stage.
-twitter_username: 
+  Blog de compte rendu de stage. 
 github_username: Kraizix
 minimal_mistakes_skin: default
 search: true

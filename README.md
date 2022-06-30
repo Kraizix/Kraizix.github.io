@@ -1,27 +1,39 @@
-# Minimal Mistakes remote theme starter
+# Rendu blog stage B2
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+- [Rendu blog stage B2](#rendu-blog-stage-b2)
+  - [Présentation](#présentation)
+  - [Architecture du blog](#architecture-du-blog)
+    - [Contenu des différentes pages](#contenu-des-différentes-pages)
 
-Contains basic configuration to get you a site with:
+## Présentation
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Le rendu consiste en la création d'une vitrine de son profil et de ses expériences en tant que professionnel sous la forme d'un blog. Le blog devra être alimenté par des articles portant sur le(s) stage(s) ainsi que les missions effectuées au cours de ce(s) dernier(s), les compétences et/ou connaissances acquises.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Architecture du blog
 
----
+![](https://i.imgur.com/Qn4SIKP.png)
 
-## Troubleshooting
+### Contenu des différentes pages
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+**Home:**
+Présentation du blog + affichage des derniers posts
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+**Posts:**
+    Ensemble des articles portant sur les expériences professionnelles réalisées, les connaissances acquises/technologies découvertes (il n'y a qu'un résumé de l'article sur cette page).
+
+**Post:**
+Détails d'un article.
+Il peut traiter:
+* de l'intégration dans l'entreprise
+* des difficultés rencontrées et solutions apportées (en entreprise ou dans ses réalisations).
+* des missions effectuées.
+* des connaissances mobilisées.
+* des compétences acquises.
+* du bilan du stage de fin d'année
+
+**Contact:**
+Lien vers les différents moyens de contact et système d'envoi de messages depuis le site
+
+**À Propos:**
+Présentation de soi, lien vers le cv, liens utiles (linkedin, github, ...)
+
